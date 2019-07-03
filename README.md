@@ -10,3 +10,5 @@ PHP base project
 ![](https://github.com/roysaurav78/Simple-Ecommerce-Mini-Project/blob/master/5.PNG)
 
 ![](https://github.com/roysaurav78/Simple-Ecommerce-Mini-Project/blob/master/6.PNG)
+
+![](https://github.com/roysaurav78/Simple-Ecommerce-Mini-Project/blob/master/7.PNG)
